@@ -1,6 +1,6 @@
 USE [LifeInsuranceDb]
 GO
-/****** Object:  Table [dbo].[Contracts]    Script Date: 09-Oct-20 5:19:50 PM ******/
+/****** Object:  Table [dbo].[Contracts]    Script Date: 07-Jan-21 5:19:50 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -24,7 +24,7 @@ CREATE TABLE [dbo].[Contracts](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[CoveragePlans]    Script Date: 09-Oct-20 5:19:51 PM ******/
+/****** Object:  Table [dbo].[CoveragePlans]    Script Date: 07-Jan-21 5:19:51 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -44,7 +44,7 @@ CREATE TABLE [dbo].[CoveragePlans](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[RateChart]    Script Date: 09-Oct-20 5:19:51 PM ******/
+/****** Object:  Table [dbo].[RateChart]    Script Date: 07-Jan-21 5:19:51 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
