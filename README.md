@@ -1,2 +1,2 @@
 # DotNetCoreAPI
- Corre API for Life Insurance
+ Core API for Life Insurance
